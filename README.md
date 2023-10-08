@@ -1,2 +1,2 @@
 # fire-detection
-InceptionV3
+InceptionV3 vs AlexNet
